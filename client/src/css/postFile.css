@@ -1,0 +1,34 @@
+.postFileWrapper {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5%;
+}
+
+.childPostFileWrapper {
+    border: 2px solid black;
+}
+
+.header {
+    background-color: #1565c0;
+    color: #fff;
+    padding: 10px;
+    margin: 0px 0px 5px 0px;
+    text-align: center;
+}
+
+.inputClass {
+    text-align: center;
+    margin: 20px;
+}
+
+.postFileButtonStyle {
+    text-align: center;
+    margin: 10px;
+}
+
+.inputLabelClass {
+    margin-bottom: 5px;
+}

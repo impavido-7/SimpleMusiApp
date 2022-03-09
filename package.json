@@ -1,0 +1,10 @@
+{
+  "name": "music",
+  "version": "1.0.0",
+  "description": "A simple music application",
+  "scripts": {
+    "start": "node startApplication.js"
+  },
+  "author": "KP Lakshman",
+  "license": "ISC"
+}
