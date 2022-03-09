@@ -1,0 +1,28 @@
+.wrapper {
+    position: fixed;
+    bottom: 5%;
+    width: 100%;
+}
+
+.displayFlex {
+    display: flex;
+    justify-content: center;
+}
+
+.childWrapper {
+    padding: 15px;
+    margin: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.showMessage {
+    margin-right: 5px;
+}
+
+.buttonStyles {
+    border: none;
+    background: none;
+    color: blue;
+    margin-top: 10px;
+}
